@@ -1,0 +1,32 @@
+html,
+body {
+  min-height: 75%;
+}
+
+body {
+  font: 100% / 1.414 "Open sans", "Trebuchet MS", arial, sans-serif;
+  color: rgb(86, 153, 255);
+  background: #f1f1f1;
+}
+
+.insert
+{
+    margin:  175px auto;
+    text-align: center;
+    width: 300px;
+    background: #fff;
+    height: 400px;
+    padding: 20px;
+    border-top: 10px solid rgb(86, 153, 255);
+}
+
+.insert form input
+{
+    
+    padding: 10px;
+    color: #ddd;
+    margin:  11px 11px 11px 0;
+    width: 100%;
+    color: rgb(86, 153, 255);
+
+}

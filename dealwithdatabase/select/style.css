@@ -1,0 +1,86 @@
+html,
+body {
+  min-height: 75%;
+}
+
+body {
+  font: 100% / 1.414 "Open sans", "Trebuchet MS", arial, sans-serif;
+  color: rgb(86, 153, 255);
+  background: #f1f1f1;
+  text-align: center;
+}
+
+.insert
+{
+    margin:  175px auto;
+    text-align: center;
+    min-width: 300px;
+    background: #fff;
+    min-height: 100px;
+    padding: 20px;
+    border-top: 10px solid rgb(86, 153, 255);
+}
+
+
+table 
+{
+  border-bottom: 1px solid #ddd;
+  width: 50%;
+  text-align: center;
+}
+
+table thead
+{
+  text-align: center;
+  background: #000;
+  color: #fff;
+}
+
+
+table thead tr th
+{
+  padding: 10px;
+}
+
+table tbody tr td
+{
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+table tbody
+{
+  text-align: center;
+}
+
+table tbody tr
+{
+  border-bottom: 1px solid #000;
+}
+
+table tbody tr td a
+{
+  text-decoration: none;
+  background: #50bbff;
+  color: #fff;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.add
+{
+  text-decoration: none;
+  background: #50bbff;
+  color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  padding-right: 25px;
+  padding-left: 25px;
+  font-size: 50px;
+  display: inline-block;
+  position: relative;
+  top: -300px;
+    right: -150px;
+}
